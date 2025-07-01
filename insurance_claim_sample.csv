@@ -1,0 +1,6 @@
+Customer_ID,Age,Gender,Policy_Type,Premium_Amount,Claims_Made,Vehicle_Age,Region_Code,Previously_Insured,Response
+101,25,Male,Type A,1200,1,< 1 Year,11,0,1
+102,45,Female,Type B,1500,0,1-2 Year,15,1,0
+103,52,Male,Type A,1100,1,> 2 Years,23,0,1
+104,23,Female,Type C,1000,0,< 1 Year,17,1,0
+105,36,Male,Type B,1300,1,1-2 Year,29,0,1
